@@ -2,7 +2,7 @@
 
 ## Challenge 
 
-Custom API that sends back todos and todolist 
+Custom written using C# and the ASP.NET Core framework API that sends back todos and todolist 
 
 ## Visual
 [Custom API]()
