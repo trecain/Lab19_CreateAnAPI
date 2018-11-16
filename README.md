@@ -18,4 +18,4 @@ Enter in these end points:
 ``
 
 ## Visual
-[Custom API](https://github.com/trecain/Lab19_CreateAnAPI/blob/master/Assets/Capture.PNG)
+![Custom API](https://github.com/trecain/Lab19_CreateAnAPI/blob/master/Assets/Capture.PNG)
