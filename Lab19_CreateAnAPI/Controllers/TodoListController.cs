@@ -60,7 +60,7 @@ namespace Lab19_CreateAnAPI.Controllers
             await _context.TodoList.AddAsync(toDoList);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetTodoList", new { id = toDoList.ID }, toDoList);
+            return CreatedAtAction("GetToDoList", new { id = toDoList.ID }, toDoList);
         }
 
 

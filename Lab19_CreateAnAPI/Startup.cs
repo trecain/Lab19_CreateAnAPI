@@ -30,7 +30,7 @@ namespace Lab19_CreateAnAPI
             services.AddMvc();
             services.AddDbContext<TodosDBContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("ProductionDB"));
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
         }
 
