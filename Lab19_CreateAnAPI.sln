@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab19_CreateAnAPI", "Lab19_CreateAnAPI\Lab19_CreateAnAPI.csproj", "{FE7E1118-CFDF-4C63-8E93-A00668F59948}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{BCD04FCB-F060-4B94-93F4-117B3E3D73DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FE7E1118-CFDF-4C63-8E93-A00668F59948}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE7E1118-CFDF-4C63-8E93-A00668F59948}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE7E1118-CFDF-4C63-8E93-A00668F59948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD04FCB-F060-4B94-93F4-117B3E3D73DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD04FCB-F060-4B94-93F4-117B3E3D73DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD04FCB-F060-4B94-93F4-117B3E3D73DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD04FCB-F060-4B94-93F4-117B3E3D73DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
